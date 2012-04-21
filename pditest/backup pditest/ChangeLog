@@ -1,0 +1,375 @@
+2007-11-15 13:13  (ajdonnison)
+---------------------------------
+db/upgrade_21_to_211.sql
+- file upgrade_21_to_211.sql was initially added on branch stable_2.
+
+2007-11-15 13:13  (ajdonnison)
+---------------------------------
+db/dotproject.sql
+db/upgrade_21_to_211.sql
+db/upgrade_latest.php
+db/upgrade_latest.sql
+includes/version.php
+install/do_install_db.php
+- Preparatory changes for 2.1.1 release.
+
+2007-11-15 12:54  (ajdonnison)
+---------------------------------
+modules/tasks/addedit.js
+- #2214 - Calculate days as multiples of working hours per day.
+
+2007-11-15 12:16  (ajdonnison)
+---------------------------------
+locales/en/admin.inc
+locales/en/calendar.inc
+locales/en/common.inc
+locales/en/companies.inc
+locales/en/contacts.inc
+locales/en/departments.inc
+locales/en/files.inc
+locales/en/forums.inc
+locales/en/history.inc
+locales/en/links.inc
+locales/en/projects.inc
+locales/en/public.inc
+locales/en/resources.inc
+locales/en/smartsearch.inc
+locales/en/system.inc
+locales/en/tasks.inc
+locales/en/ticketsmith.inc
+- #2215 - Added missing translation strings.
+
+2007-11-15 10:15  (ajdonnison)
+---------------------------------
+modules/public/selector.php
+- #2240 - Make task selection show hierarchy.
+
+2007-11-15 07:58  (ajdonnison)
+---------------------------------
+modules/history/index.php
+- Change history limit per page to something more reasonable.
+
+2007-11-14 22:55  (ajdonnison)
+---------------------------------
+classes/query.class.php
+modules/history/index.php
+- #2216 - Support pagination of history - note that there may still be issues
+- with old data and with records not visible due to permissions.
+
+2007-11-14 21:54  (ajdonnison)
+---------------------------------
+modules/calendar/calendar.class.php
+- Make module php4 compatible.
+
+2007-11-14 20:35  (ajdonnison)
+---------------------------------
+classes/ui.class.php
+- #2238 - Fix Gantt chart display in classic theme.
+
+2007-11-14 19:23  (ajdonnison)
+---------------------------------
+modules/tasks/do_updatetask.php
+- #2194 - Make sure end hour is kept when changing end date.
+
+2007-11-14 19:08  (ajdonnison)
+---------------------------------
+modules/tasks/tasks.class.php
+- #2192 - Display of Log option not following correct logic (should only be disabled for dynamic tasks).
+
+2007-11-14 19:00  (ajdonnison)
+---------------------------------
+modules/companies/view.php
+- #2208 - Add Owner to company details page.
+
+2007-11-14 18:54  (ajdonnison)
+---------------------------------
+modules/tasks/organize.php
+- #2209 - Add option to select/deselect all tasks.
+
+2007-11-14 18:54  (ajdonnison)
+---------------------------------
+db/dotproject.sql
+db/upgrade_latest.sql
+- Fixed NOT NULL problem with some windows installs.
+
+2007-11-14 18:12  (ajdonnison)
+---------------------------------
+modules/projects/gantt.php
+- #2187 - Change missing task start/end dates to match project start/end date.
+
+2007-11-14 17:43  (ajdonnison)
+---------------------------------
+modules/tasks/gantt.php
+modules/tasks/viewgantt.php
+- #2199 - Search for orphans when showing tasks by parent
+- Remove EmptyDates option which is not supported by gantt.php
+
+2007-11-14 17:16  (ajdonnison)
+---------------------------------
+modules/tasks/ae_resource.php
+- Make the adding of a new task consistent.
+
+2007-11-14 16:35  (ajdonnison)
+---------------------------------
+modules/tasks/ae_resource.php
+- #2231 - Adjust human resource list so that even if you aren't allowed to view the user list, you can view users that are allocated to the task you can edit.
+
+2007-11-14 16:07  (ajdonnison)
+---------------------------------
+modules/tasks/tasks.class.php
+- #2193 - Included patch from phpgus to fix tasks listings on calendar pages.
+
+2007-11-14 15:00  (ajdonnison)
+---------------------------------
+modules/calendar/calendar.class.php
+modules/calendar/projects_tab.events.php
+- #2217 Added support for project-specific events tab.  Added tab.
+
+2007-11-14 15:00  (ajdonnison)
+---------------------------------
+modules/calendar/projects_tab.events.php
+- file projects_tab.events.php was initially added on branch stable_2.
+
+2007-11-14 13:55  (ajdonnison)
+---------------------------------
+index.php
+modules/companies/index.php
+- #2183 - Make sure companies module is correctly disabled, while not disabling myInfo and other functions.
+
+2007-11-14 13:27  (ajdonnison)
+---------------------------------
+modules/files/files.class.php
+- Dump helpdesk linkages as it looks like the current version of helpdesk doesn't work this way anymore.
+- And why we have external modules hacking core code is beyond me.
+
+2007-11-14 12:56  (ajdonnison)
+---------------------------------
+classes/ui.class.php
+- #2201 - Fix help link (I know we don't need it, but we may as well fix it).
+
+2007-11-14 12:48  (merlinyoda)
+---------------------------------
+modules/files/folders_table.php
+- Fix for Mantis Bug Report #2210
+
+2007-11-14 12:27  (merlinyoda)
+---------------------------------
+modules/tasks/viewgantt.php
+- Added POST check to fix for Mantis Bug Report 2189
+
+2007-11-14 12:24  (merlinyoda)
+---------------------------------
+modules/tasks/viewgantt.php
+- More definitive fix for Mantis Bug Report #2189
+
+2007-11-14 12:18  (merlinyoda)
+---------------------------------
+modules/tasks/viewgantt.php
+- Fix for Mantis Bug Report #2189
+
+2007-11-14 12:14  (ajdonnison)
+---------------------------------
+modules/projects/gantt.php
+- #2226 - Reduced size of fonts to ensure UTF-8 characters display correctly (as per gvl).
+
+2007-11-14 12:07  (ajdonnison)
+---------------------------------
+modules/files/do_file_co.php
+- #2234 - Incorporated fix from phpgus on safe mode warnings on file checkout.
+
+2007-11-14 11:32  (ajdonnison)
+---------------------------------
+modules/forums/post_message.php
+- #2202 - Don't go all the way back to forums index after editing/adding.
+
+2007-11-14 11:18  (ajdonnison)
+---------------------------------
+modules/tasks/tasks.class.php
+- #2231 - Fix at least one part of the multiple unassigments issue.
+
+2007-11-14 11:13  (merlinyoda)
+---------------------------------
+modules/tasks/todo.php
+modules/tasks/todo_tasks_sub.php
+- Fix for Mantis Bug Report #2188
+
+2007-11-14 11:03  (ajdonnison)
+---------------------------------
+classes/libmail.class.php
+- #2236 - fix line endings when no attachments involved.
+
+2007-11-13 03:22  (cyberhorse)
+---------------------------------
+modules/history/index.php
+- Added tasks as an option in the history module for filtering
+
+2007-11-13 03:15  (cyberhorse)
+---------------------------------
+includes/db_adodb.php
+- Improved debugging message for sql errors
+
+2007-11-09 16:04  (ajdonnison)
+---------------------------------
+modules/tasks/tasks.class.php
+- #2180 - fix supplied by phpgus for dependencies on copy.
+
+2007-11-06 09:35  (ajdonnison)
+---------------------------------
+base.php
+index.php
+- Move error reporting options from index.php to base.php so it affects all
+- files (like fileviewer)
+
+2007-11-05 21:27  (ajdonnison)
+---------------------------------
+classes/dp.class.php
+- Make sure default history insert adds meaningful data.
+
+2007-11-04 21:00  (cyberhorse)
+---------------------------------
+modules/files/do_file_aed.php
+modules/files/folders_table.php
+- #2204 - when copying files, keep their folder and project
+- Fixed folder view (grouping on version_id instead of just name)
+
+2007-11-04 20:37  (ajdonnison)
+---------------------------------
+db/upgrade_latest.php
+modules/calendar/addedit.php
+modules/tasks/addedit.php
+- #2195 - Fix user permissions in calendar/tasks
+
+2007-11-04 17:08  (ajdonnison)
+---------------------------------
+modules/tasks/tasks.class.php
+- #2228 - Fixed incorrect URL on sortable column headings
+- #2207 - Empty end dates cannot be overdue.
+
+2007-11-01 19:40  (ajdonnison)
+---------------------------------
+style/default/header.php
+style/dp-grey-theme/header.php
+- #2211 - Remove forcing of tab in today view.
+
+2007-10-29 21:29  (ajdonnison)
+---------------------------------
+includes/session.php
+- #2182 - Fix session destroy behaviour, and while we are at it make sure
+- session garbage collection works as expected.
+
+2007-10-28 07:44  (cyberhorse)
+---------------------------------
+modules/history/setup.php
+- Increased the size of table fields (avoids an error when history module
+- is enabled and folders are used in the files module)
+
+2007-10-28 07:43  (cyberhorse)
+---------------------------------
+classes/query.class.php
+- Added mechanisms to alter db fields
+
+2007-10-25 21:54  (ajdonnison)
+---------------------------------
+modules/system/addeditpref.php
+- #2198 - Fix spelling mistake.
+
+2007-10-25 21:22  (ajdonnison)
+---------------------------------
+includes/main_functions.php
+- Minor tweak to allow test to be non-intrusive.
+
+2007-10-25 21:18  (ajdonnison)
+---------------------------------
+includes/main_functions.php
+locales/en/common.inc
+modules/projects/viewgantt.php
+modules/tasks/viewgantt.php
+- #2212 - Inconsistent display of Gantt charts.
+
+2007-10-25 17:35  (ajdonnison)
+---------------------------------
+modules/projects/gantt.php
+modules/projects/viewgantt.php
+modules/tasks/gantt.php
+- Move memory_limit set to where it will actually do some good.
+- Minor cleanups to limit width of gantt, reduce overall memory footprint.
+
+2007-10-25 17:07  (ajdonnison)
+---------------------------------
+classes/libmail.class.php
+- Remove debug.
+
+2007-10-25 17:06  (ajdonnison)
+---------------------------------
+classes/libmail.class.php
+- #2190 - Subject not set if no encoding performed.
+
+2007-10-25 10:57  (revelation7)
+---------------------------------
+style/classic/main.css
+- Fix for bug #0002200: Multi-Line Selection boxes are not expanded in the dotProject Classic Theme
+
+2007-10-24 15:05  (revelation7)
+---------------------------------
+.cvsignore
+modules/tasks/vw_log_update.php
+- Fix for bug #0002185 Task Log editing - original user is overwritten
+
+2007-10-24 15:05  (revelation7)
+---------------------------------
+.cvsignore
+- file .cvsignore was initially added on branch stable_2.
+
+2007-10-19 23:28  (nybod)
+---------------------------------
+index.php
+- Mantis 2183
+
+2007-10-19 06:26  (merlinyoda)
+---------------------------------
+modules/tasks/tasks.class.php
+- More tweaks on "query class" changes.
+- Possiblly fixes Mantis Bug Report #2180
+
+2007-10-19 00:27  (nybod)
+---------------------------------
+modules/companies/vw_active.php
+modules/companies/vw_archived.php
+- Mantis 2181
+
+2007-10-19 00:24  (nybod)
+---------------------------------
+modules/projects/gantt.php
+- Debug code removed
+
+2007-10-18 09:36  (merlinyoda)
+---------------------------------
+modules/tasks/tasks.class.php
+- 
+- Small line placement change for consistancy.
+
+2007-10-18 09:27  (merlinyoda)
+---------------------------------
+modules/tasks/tasks.class.php
+- 
+- Resolving issue Bruce came across in forums:
+- http://www.dotproject.net/vbulletin/showthread.php?p=33760#post33760
+
+2007-10-18 03:06  (merlinyoda)
+---------------------------------
+modules/tasks/tasks.class.php
+- 
+- Fixed copy/paste error made when converting "static" queries
+- to "query class" queries.
+
+2007-10-18 02:02  (merlinyoda)
+---------------------------------
+modules/tasks/tasks.class.php
+- 
+- Fix on Mantis Bug Report #2178
+
+2007-10-17 10:10  (nybod)
+---------------------------------
+modules/tasks/tasks.class.php
+- Mantis 2177 - Fixed typo in getAssignedUsers function.
+

@@ -1,0 +1,2 @@
+Rendimiento por lider
+Reporte que muestra la cantidad de horas trabajadas por un lider contra los asignados a las metas

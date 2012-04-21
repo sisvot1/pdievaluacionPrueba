@@ -1,0 +1,2 @@
+Estadisticas por objetivo
+Describe el estado de los metas por objetivo.

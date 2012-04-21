@@ -1,0 +1,2 @@
+Tiempo asignado por usuario
+Este reporte muestra el numero de horas que un usuario ha asignado en un periodo de tiempo especificado.

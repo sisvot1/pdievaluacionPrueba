@@ -1,0 +1,2 @@
+Reporte de Metas finalizadas por fecha
+Ver las metas de la fecha de finalizacion (real y propuesta)

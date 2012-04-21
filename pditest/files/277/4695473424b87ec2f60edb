@@ -1,0 +1,812 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List
+href="RV%20Update%20Humanistic%20Management%20Network%20-%20October%202009%202.9.4._archivos/filelist.xml">
+<link rel=Edit-Time-Data
+href="RV%20Update%20Humanistic%20Management%20Network%20-%20October%202009%202.9.4._archivos/editdata.mso">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>CRBERNAL</o:Author>
+  <o:Template>NormalEmail</o:Template>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>3</o:TotalTime>
+  <o:Created>2010-02-26T15:49:00Z</o:Created>
+  <o:Pages>1</o:Pages>
+  <o:Words>751</o:Words>
+  <o:Characters>4133</o:Characters>
+  <o:Lines>34</o:Lines>
+  <o:Paragraphs>9</o:Paragraphs>
+  <o:CharactersWithSpaces>4875</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData
+href="RV%20Update%20Humanistic%20Management%20Network%20-%20October%202009%202.9.4._archivos/themedata.thmx">
+<link rel=colorSchemeMapping
+href="RV%20Update%20Humanistic%20Management%20Network%20-%20October%202009%202.9.4._archivos/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>ES-CO</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:DoNotExpandShiftReturn/>
+   <w:BreakWrappedTables/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1107304683 0 0 159 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520082689 -1073717157 41 0 66047 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+a:link, span.MsoHyperlink
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Texto de globo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+span.EstiloCorreo18
+	{mso-style-type:personal;
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-hansi-font-family:Calibri;
+	color:#1F497D;}
+span.TextodegloboCar
+	{mso-style-name:"Texto de globo Car";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Texto de globo";
+	mso-ansi-font-size:8.0pt;
+	mso-bidi-font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:763456768;
+	mso-list-template-ids:-350317524;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:1906991849;
+	mso-list-template-ids:-2053737876;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:36.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l1:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabla normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]-->
+</head>
+
+<body lang=ES-CO link=blue vlink=purple style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal style='margin-left:120.0pt;text-indent:-120.0pt;tab-stops:
+120.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>De:<span style='mso-tab-count:1'>                                   </span></span></b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>Carlos Largacha Martinez [clargacha@ean.edu.co]<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:120.0pt;text-indent:-120.0pt;tab-stops:
+120.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>Enviado el:<span style='mso-tab-count:1'>                     </span></span></b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>jueves, 25 de febrero de 2010 06:04 p.m.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:120.0pt;text-indent:-120.0pt;tab-stops:
+120.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>Para:<span style='mso-tab-count:1'>                               </span></span></b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>'Carmen Rocio Bernal'<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:120.0pt;text-indent:-120.0pt;tab-stops:
+120.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>Asunto:<span style='mso-tab-count:1'>                           </span></span></b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>RV: Update Humanistic Management Network - October 2009<o:p></o:p></span></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>2.9.4. red de gerencia humanista<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<div style='border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm'>
+
+<p class=MsoNormal><b><span lang=ES style='font-size:10.0pt;font-family:"Tahoma","sans-serif";
+mso-ansi-language:ES'>De:</span></b><span lang=ES style='font-size:10.0pt;
+font-family:"Tahoma","sans-serif";mso-ansi-language:ES'> Spitzeck, Heiko
+[mailto:heiko.spitzeck@Cranfield.ac.uk] <br>
+<b>Enviado el:</b> jueves, 29 de octubre de 2009 06:47 a.m.<br>
+<b>Para:</b> info@humanetwork.org<br>
+<b>Asunto:</b> Update Humanistic Management Network - October 2009<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<div>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>October
+2009</span></p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Dear
+friends of the Humanistic Management Network,</span></p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>We
+wanted to give you a short update on our recent activities and invite you to
+come to Barcelona in May and to submit any papers relating to social
+entrepreneurship and what mainstream managers can learn from it. Our network is
+currently working on the following publications:</span></p>
+
+</div>
+
+<ul type=disc>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l1 level1 lfo3;tab-stops:list 36.0pt'><span style='font-size:
+     10.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'>Project
+     &quot;Banking Differently&quot; - Title of the book &quot;Banking with
+     Integrity - The winners of the financial crisis&quot; is&nbsp;a case
+     collection of banks doing well under the current environment. We want to
+     find out if they are doing well, because they are managed more
+     humanistically. We are collecting &amp; revising the final cases and
+     expect to hand over the manuscript to Palgrave by January. Publication is
+     envisioned by summer 2010. </span><span style='mso-fareast-font-family:
+     "Times New Roman"'><o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l1 level1 lfo3;tab-stops:list 36.0pt'><span style='font-size:
+     10.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'>Project
+     &amp; title: &quot;Humanistic Management in Practice&quot; - Most cases
+     are in the proof-reading stage and the manuscript is expected to go to
+     Palgrave by December. Publication is envisioned for late Spring/Summer
+     2010. </span><span style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></li>
+ <li class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;
+     mso-list:l1 level1 lfo3;tab-stops:list 36.0pt'><span style='font-size:
+     10.0pt;font-family:"Arial","sans-serif";mso-fareast-font-family:"Times New Roman"'>Project
+     &amp; title: &quot;Humanistic Ethics in the Age of Globality&quot; - This
+     book provides more philosophical grounding to the idea of humanism in
+     business and tracks humanistic thought through the different epochs of
+     philosophy and integrates as well Asian and Latinamerican philosophies. We
+     are currently collecting the contributions and expect to submit the
+     manuscript to Palgrave by Autumn next year. Publication is envisioned by
+     Summer 2011. </span><span style='mso-fareast-font-family:"Times New Roman"'><o:p></o:p></span></li>
+</ul>
+
+<div>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>As
+in previous emails we are happy to discuss any ideas you have regarding any
+book which would fit well into our series. Also in terms of joint work
+regarding journal publications, empirical research etc. please feel free to get
+in touch.&nbsp;A good opportunity for joint journal publications as well as for
+meeting in person is the IESE Symposium and the call for papers below:</span></p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal><strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>IESE
+Symposium: Facing the Crisis - Towards a new humanistic synthesis</span></strong></p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Domenec
+Mele contributed a chapter on &quot;Current Trends in Humanism and
+Business&quot; to our Cambridge book. He and his colleagues at IESE are hosting
+a Symposium in May 2010 where you can meet a lot of like-minded colleagues
+working in the area of humanism and business. We especially want to draw
+attention to the call for papers (submission deadline for abstracts is the
+31.12.2009) and would encourage the philosophers amoung you&nbsp;to submit
+papers relating to &quot;Caritas in Veritas&quot;. Also there is the
+opportunity for all case study authors on the forthcoming books on
+&quot;Banking Differently&quot; as well as &quot;Humanistic Management in
+Practice&quot; to submit papers of their cases or ideally to present their
+cases with partners from the case study organization. More information on the
+symposium can be found at:</span></p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><a
+href="http://www.iese.edu/en/events/BusinessEthics/16Symposium/home/Home.asp">http://www.iese.edu/en/events/BusinessEthics/16Symposium/home/Home.asp</a></span></p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal><strong><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Call
+for Papers - International Review of Entrepreneurship on &quot;Social
+Entrepreneurship - Implications for Management Practice&quot;</span></strong></p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>In
+&quot;Humanism in Business&quot; Michael already outlined that Social
+Enterprises might serve as a template for humanistic businesses. Also Nobel
+prize winner Muhammad Yunus encourages managers to have a look at Social
+Entrepreneurs in his chapter. This special issue wants to shed light on what
+mainstream management can learn from social entrepreneurs. Deadline for full
+paper submissions is the 01. February 2010. The call for papers can be found
+at:</span></p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><a
+href="http://www.senatehall.com/content.php?journal=1&amp;id=68">http://www.senatehall.com/content.php?journal=1&amp;id=68</a></span></p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>We
+would be looking forward to hear from you.</span></p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>All
+the best from the UK</span></p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Heiko</span></p>
+
+</div>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>-----------------------------------------------------------------------</span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Dr.
+Heiko Spitzeck</span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Cranfield
+University</span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Doughty
+Centre for Corporate Responsibility</span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Tel:
+0044 (0) 1234 751122 ext 3219</span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><a
+href="http://www.doughtycentre.info/">www.doughtycentre.info</a></span></p>
+
+<p class=MsoNormal>&nbsp;</p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>NEW:
+</span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Humanism
+in Business</span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'>Cambridge
+University Press</span></p>
+
+<p class=MsoNormal><span style='font-size:10.0pt;font-family:"Arial","sans-serif"'><a
+href="http://www.cambridge.org/uk/catalogue/catalogue.asp?isbn=9780521898935">http://www.cambridge.org/uk/catalogue/catalogue.asp?isbn=9780521898935</a></span></p>
+
+<p><span lang=EN-GB style='font-size:10.0pt;font-family:"Arial","sans-serif";
+mso-ansi-language:EN-GB'>A video interview on the book can be found at: </span><span
+lang=EN-GB style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D;mso-ansi-language:EN-GB'><a
+href="http://www.cranfieldknowledgeinterchange.com/Book.aspx?vid=240&amp;media=240"
+title="http://www.cranfieldknowledgeinterchange.com/Book.aspx?vid=240&amp;media=240"><span
+style='color:purple'>http://www.cranfieldknowledgeinterchange.com/Book.aspx?vid=240&amp;media=240</span></a><a
+href="http://www.cranfieldknowledgeinterchange.com/book.aspx"> </a></span></p>
+
+<div>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+</div>
+
+</body>
+
+</html>

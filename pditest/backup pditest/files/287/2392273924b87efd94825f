@@ -1,0 +1,809 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 12">
+<meta name=Originator content="Microsoft Word 12">
+<link rel=File-List href="RE%20Actualización%20Pdiean_archivos/filelist.xml">
+<link rel=Edit-Time-Data
+href="RE%20Actualización%20Pdiean_archivos/editdata.mso">
+<!--[if !mso]>
+<style>
+v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>CRBERNAL</o:Author>
+  <o:Template>NormalEmail</o:Template>
+  <o:Revision>1</o:Revision>
+  <o:TotalTime>0</o:TotalTime>
+  <o:Created>2010-02-26T16:01:00Z</o:Created>
+  <o:Pages>1</o:Pages>
+  <o:Words>416</o:Words>
+  <o:Characters>2294</o:Characters>
+  <o:Lines>19</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2705</o:CharactersWithSpaces>
+  <o:Version>12.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=themeData href="RE%20Actualización%20Pdiean_archivos/themedata.thmx">
+<link rel=colorSchemeMapping
+href="RE%20Actualización%20Pdiean_archivos/colorschememapping.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>0</w:Zoom>
+  <w:TrackMoves/>
+  <w:TrackFormatting/>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>ES-CO</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:DoNotExpandShiftReturn/>
+   <w:BreakWrappedTables/>
+   <w:SplitPgBreakAndParaMark/>
+   <w:DontVertAlignCellWithSp/>
+   <w:DontBreakConstrainedForcedTables/>
+   <w:DontVertAlignInTxbx/>
+   <w:Word11KerningPairs/>
+   <w:CachedColBalance/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val="Cambria Math"/>
+   <m:brkBin m:val="before"/>
+   <m:brkBinSub m:val="&#45;-"/>
+   <m:smallFrac m:val="off"/>
+   <m:dispDef/>
+   <m:lMargin m:val="0"/>
+   <m:rMargin m:val="0"/>
+   <m:defJc m:val="centerGroup"/>
+   <m:wrapIndent m:val="1440"/>
+   <m:intLim m:val="subSup"/>
+   <m:naryLim m:val="undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
+  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
+  LatentStyleCount="267">
+  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
+  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 2"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 3"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 4"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
+  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
+  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
+  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
+  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
+  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
+  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
+  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
+  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
+  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Table Grid"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
+  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 1"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
+  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
+  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
+  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
+  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 2"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 3"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 4"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 5"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
+  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light List Accent 6"/>
+  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
+  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
+  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
+  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
+  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
+  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
+  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
+   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
+  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
+  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
+  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
+  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
+  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
+   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
+  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
+  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1107304683 0 0 159 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-520082689 -1073717157 41 0 66047 0;}
+@font-face
+	{font-family:"Trebuchet MS";
+	panose-1:2 11 6 3 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:647 0 0 0 159 0;}
+@font-face
+	{font-family:Webdings;
+	panose-1:5 3 1 2 1 5 9 6 7 3;
+	mso-font-charset:2;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:0 268435456 0 0 -2147483648 0;}
+@font-face
+	{font-family:"Agency FB";
+	panose-1:2 11 5 3 2 2 2 2 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-link:"Texto de globo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";
+	mso-fareast-font-family:Calibri;
+	mso-fareast-theme-font:minor-latin;}
+span.TextodegloboCar
+	{mso-style-name:"Texto de globo Car";
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Texto de globo";
+	font-family:"Tahoma","sans-serif";
+	mso-ascii-font-family:Tahoma;
+	mso-hansi-font-family:Tahoma;
+	mso-bidi-font-family:Tahoma;}
+span.EstiloCorreo19
+	{mso-style-type:personal;
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-hansi-font-family:Calibri;
+	color:#1F497D;}
+span.EstiloCorreo20
+	{mso-style-type:personal;
+	mso-style-noshow:yes;
+	mso-style-unhide:no;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-hansi-font-family:Calibri;
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page Section1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;
+	mso-header-margin:36.0pt;
+	mso-footer-margin:36.0pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Tabla normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]-->
+</head>
+
+<body lang=ES-CO link=blue vlink=purple style='tab-interval:35.4pt'>
+
+<div class=Section1>
+
+<p class=MsoNormal style='margin-left:120.0pt;text-indent:-120.0pt;tab-stops:
+120.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>De:<span style='mso-tab-count:1'>                                   </span></span></b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>Nelson Díaz [ndiaz@ean.edu.co]<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:120.0pt;text-indent:-120.0pt;tab-stops:
+120.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>Enviado el:<span style='mso-tab-count:1'>                     </span></span></b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>viernes, 26 de febrero de 2010 10:22 a.m.<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:120.0pt;text-indent:-120.0pt;tab-stops:
+120.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>Para:<span style='mso-tab-count:1'>                               </span></span></b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>'Carmen Rocio Bernal'<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:120.0pt;text-indent:-120.0pt;tab-stops:
+120.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>Asunto:<span style='mso-tab-count:1'>                           </span></span></b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>RE: Actualización Pdiean<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:120.0pt;text-indent:-120.0pt;tab-stops:
+120.0pt;mso-layout-grid-align:none;text-autospace:none'><b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>Datos adjuntos:<span style='mso-tab-count:1'>             </span></span></b><span
+style='font-family:"Calibri","sans-serif";mso-bidi-font-family:Calibri;
+color:black'>REVISTA 2010 N2. Avance Feb 15.docx<o:p></o:p></span></p>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<p class=MsoNormal><span lang=ES style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D;mso-ansi-language:ES'>Con gusto Roci<o:p></o:p></span></p>
+
+<p class=MsoNormal><span lang=ES style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D;mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<p class=MsoNormal><span lang=ES style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D;mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=ES style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D;mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=ES style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D;mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=ES style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D;mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><b><span lang=ES style='font-family:"Calibri","sans-serif";
+color:#1F497D;mso-ansi-language:ES'>Cordial&nbsp; saludo,<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span lang=ES style='font-family:"Calibri","sans-serif";
+color:#1F497D;mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><b><span lang=ES style='font-family:"Agency FB","sans-serif";
+color:#1F497D;mso-ansi-language:ES'>Nelson&nbsp; Díaz&nbsp; Cáceres<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span lang=ES style='font-family:"Agency FB","sans-serif";
+color:#1F497D;mso-ansi-language:ES'>Coordinador Competencias Socio Humanísticas<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span lang=ES style='font-family:"Agency FB","sans-serif";
+color:#1F497D;mso-ansi-language:ES'>Universidad&nbsp;&nbsp; EAN, Sede el Nogal<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span lang=ES style='font-family:"Agency FB","sans-serif";
+color:#1F497D;mso-ansi-language:ES'>Bogotá. Colombia<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span lang=ES style='font-family:"Agency FB","sans-serif";
+color:#1F497D;mso-ansi-language:ES'>Teléfono: (57-1) 5 93 64 64 ext 1176<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span lang=ES style='font-family:"Agency FB","sans-serif";
+color:#1F497D;mso-ansi-language:ES'>Celular: 3178607596<o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span lang=ES style='font-family:"Agency FB","sans-serif";
+color:#1F497D;mso-ansi-language:ES'><a href="mailto:ndiaz@ean.edu.co">ndiaz@ean.edu.co</a><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span lang=ES style='font-family:"Agency FB","sans-serif";
+color:#1F497D;mso-ansi-language:ES'><a href="http://www.ean.edu.co">www.ean.edu.co</a><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><b><span lang=ES style='font-family:"Agency FB","sans-serif";
+color:#1F497D;mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></b></p>
+
+<p class=MsoNormal><span lang=ES style='font-family:"Calibri","sans-serif";
+color:#1F497D;mso-ansi-language:ES'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
+ coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
+ filled="f" stroked="f">
+ <v:stroke joinstyle="miter"/>
+ <v:formulas>
+  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
+  <v:f eqn="sum @0 1 0"/>
+  <v:f eqn="sum 0 0 @1"/>
+  <v:f eqn="prod @2 1 2"/>
+  <v:f eqn="prod @3 21600 pixelWidth"/>
+  <v:f eqn="prod @3 21600 pixelHeight"/>
+  <v:f eqn="sum @0 0 1"/>
+  <v:f eqn="prod @6 1 2"/>
+  <v:f eqn="prod @7 21600 pixelWidth"/>
+  <v:f eqn="sum @8 21600 0"/>
+  <v:f eqn="prod @7 21600 pixelHeight"/>
+  <v:f eqn="sum @10 21600 0"/>
+ </v:formulas>
+ <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
+ <o:lock v:ext="edit" aspectratio="t"/>
+</v:shapetype><v:shape id="_x0000_i1025" type="#_x0000_t75" alt="http://www.ean.edu.co/images/stories/Manual_institucional/EAN-ACBSP.jpg"
+ style='width:114.75pt;height:52.5pt'>
+ <v:imagedata src="RE%20Actualización%20Pdiean_archivos/image001.jpg" o:href="cid:image003.jpg@01CAB6CD.774EE310"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=153 height=70
+src="RE%20Actualización%20Pdiean_archivos/image001.jpg"
+alt="http://www.ean.edu.co/images/stories/Manual_institucional/EAN-ACBSP.jpg"
+v:shapes="_x0000_i1025"><![endif]></span><b><span lang=ES style='font-family:
+"Agency FB","sans-serif";color:#1F497D;mso-ansi-language:ES'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal><span lang=ES style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D;mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span lang=ES style='font-size:18.0pt;font-family:Webdings;
+color:green;mso-ansi-language:ES'>Q</span><span lang=ES style='font-size:7.5pt;
+font-family:Webdings;color:green;mso-ansi-language:ES'> </span><span lang=ES
+style='font-size:8.0pt;font-family:"Arial","sans-serif";color:green;mso-ansi-language:
+ES'>Antes de imprimir este mensaje, asegúrese de que es necesario. Proteger el
+medio ambiente está también en sus manos.</span><span style='font-family:"Arial","sans-serif";
+color:black'><o:p></o:p></span></p>
+
+</div>
+
+<p class=MsoNormal><span lang=ES style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D;mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<div>
+
+<div style='border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm'>
+
+<p class=MsoNormal><b><span lang=ES style='font-size:10.0pt;font-family:"Tahoma","sans-serif";
+mso-ansi-language:ES'>De:</span></b><span lang=ES style='font-size:10.0pt;
+font-family:"Tahoma","sans-serif";mso-ansi-language:ES'> Carmen Rocio Bernal
+[mailto:crbernal@ean.edu.co] <br>
+<b>Enviado el:</b> Viernes, 26 de Febrero de 2010 09:19 a.m.<br>
+<b>Para:</b> 'Nelson Díaz'<br>
+<b>Asunto:</b> RV: Actualización Pdiean<o:p></o:p></span></p>
+
+</div>
+
+</div>
+
+<p class=MsoNormal><span lang=ES style='mso-ansi-language:ES'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'>Buen día Nelson:&nbsp; Necesitamos pedirte el favor de remitirme
+por correo electrónico, el documento que entregaste a mi jefe sobre el plan de
+trabajo para la Revista?.&nbsp; &nbsp;Muchas gracias,<o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><i><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#365F91'>Rocío Bernal Barrios<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#365F91'>Profesional II Vicerrectoría de Investigación<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#365F91'>Universidad EAN<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#365F91'><a href="mailto:crbernal@ean.edu.co">crbernal@ean.edu.co</a> <o:p></o:p></span></i></p>
+
+<p class=MsoNormal><i><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#365F91'>Teléfono 5936162 ext. 2434<o:p></o:p></span></i></p>
+
+<p class=MsoNormal><span style='font-size:9.0pt;font-family:"Trebuchet MS","sans-serif";
+color:#333333'><!--[if gte vml 1]><v:shape id="Imagen_x0020_1" o:spid="_x0000_i1026"
+ type="#_x0000_t75" alt="Dibujo" style='width:74.25pt;height:68.25pt'>
+ <v:imagedata src="RE%20Actualización%20Pdiean_archivos/image002.jpg" o:href="cid:image004.jpg@01CAB6CD.774EE310"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=99 height=91
+src="RE%20Actualización%20Pdiean_archivos/image002.jpg" alt=Dibujo v:shapes="Imagen_x0020_1"><![endif]>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><a href="http://www.acbsp.org/" target="_blank" title="&quot;&quot; t "><span
+style='font-size:9.0pt;font-family:"Trebuchet MS","sans-serif";color:#2D5851;
+text-decoration:none;text-underline:none'><!--[if gte vml 1]><v:shape id="Imagen_x0020_2"
+ o:spid="_x0000_i1027" type="#_x0000_t75" alt="http://www.ean.edu.co/images/stories/ACBSP.png"
+ style='width:46.5pt;height:52.5pt'>
+ <v:imagedata src="RE%20Actualización%20Pdiean_archivos/image003.png" o:href="cid:image005.png@01CAB6CD.774EE310"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=62 height=70
+src="RE%20Actualización%20Pdiean_archivos/image004.gif"
+alt="http://www.ean.edu.co/images/stories/ACBSP.png" v:shapes="Imagen_x0020_2"><![endif]></span></a><span
+style='font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497D'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-size:11.0pt;font-family:"Calibri","sans-serif";
+color:#1F497D'><o:p>&nbsp;</o:p></span></p>
+
+<div style='border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm 0cm 0cm'>
+
+<p class=MsoNormal><b><span lang=ES style='font-size:10.0pt;font-family:"Tahoma","sans-serif";
+mso-ansi-language:ES'>De:</span></b><span lang=ES style='font-size:10.0pt;
+font-family:"Tahoma","sans-serif";mso-ansi-language:ES'> DENISE CAROLINE
+ARGUELLES PABON [mailto:darguelles@correo.ean.edu.co] <br>
+<b>Enviado el:</b> jueves, 25 de febrero de 2010 02:59 p.m.<br>
+<b>Para:</b> Carmen Rocio Bernal<br>
+<b>Asunto:</b> Re: Actualización Pdiean<o:p></o:p></span></p>
+
+</div>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+<div>
+
+<p class=MsoNormal>No señora, ellos trajeron una copia en papel y nelson dijo
+que se lo había enviado Carlos, él también tienen encima del escritorio el
+documento impreso.</p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal>Saludos</p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal>&nbsp;</p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal style='margin-bottom:12.0pt'>Densie</p>
+
+</div>
+
+<div>
+
+<p class=MsoNormal>El 24 de febrero de 2010 17:04, Carmen Rocio Bernal &lt;<a
+href="mailto:crbernal@ean.edu.co">crbernal@ean.edu.co</a>&gt; escribió:</p>
+
+<div>
+
+<div>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style='font-size:8.0pt'>Hola Denis:&nbsp; Del archivo que trabajaron ayer con
+mi jefe, en el objetivo 2.20 meta 5, dice:&nbsp; María Isabel Duque y Nelson
+Díaz nos trajeron un documento (ver anexo) para mirar el plan de trabajo de
+este año y los retos de la próxima revista. Nos reunimos con ellos la tercera
+semana de febrero.&nbsp; Tú tienes este anexo???.</span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style='font-size:8.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style='font-size:8.0pt'>Gracias,</span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style='font-size:8.0pt'>&nbsp;</span></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;</p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;</p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><i><span
+style='color:#365F91'>Rocío Bernal Barrios</span></i></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><i><span
+style='color:#365F91'>Profesional II Vicerrectoría de Investigación</span></i></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><i><span
+style='color:#365F91'>Universidad EAN</span></i></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><i><span
+style='color:#365F91'><a href="mailto:crbernal@ean.edu.co" target="_blank">crbernal@ean.edu.co</a>
+</span></i></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><i><span
+style='color:#365F91'>Teléfono 5936162 ext. 2434</span></i></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'><span
+style='font-size:9.0pt;color:#333333'><!--[if gte vml 1]><v:shape id="_x0000_i1028"
+ type="#_x0000_t75" alt="Dibujo" style='width:74.25pt;height:68.25pt'>
+ <v:imagedata src="RE%20Actualización%20Pdiean_archivos/image002.jpg" o:href="cid:image004.jpg@01CAB6CD.774EE310"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=99 height=91
+src="RE%20Actualización%20Pdiean_archivos/image002.jpg" alt=Dibujo v:shapes="_x0000_i1028"><![endif]>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><a href="http://www.acbsp.org/" target="_blank" title="&quot;&quot; t "><span
+style='font-size:9.0pt;color:#2D5851;text-decoration:none;text-underline:none'><!--[if gte vml 1]><v:shape
+ id="_x0000_i1029" type="#_x0000_t75" alt="http://www.ean.edu.co/images/stories/ACBSP.png"
+ style='width:46.5pt;height:52.5pt'>
+ <v:imagedata src="RE%20Actualización%20Pdiean_archivos/image003.png" o:href="cid:image005.png@01CAB6CD.774EE310"/>
+</v:shape><![endif]--><![if !vml]><img border=0 width=62 height=70
+src="RE%20Actualización%20Pdiean_archivos/image004.gif"
+alt="http://www.ean.edu.co/images/stories/ACBSP.png" v:shapes="_x0000_i1029"><![endif]></span></a></p>
+
+<p class=MsoNormal style='mso-margin-top-alt:auto;mso-margin-bottom-alt:auto'>&nbsp;</p>
+
+</div>
+
+</div>
+
+</div>
+
+<p class=MsoNormal><o:p>&nbsp;</o:p></p>
+
+</div>
+
+</body>
+
+</html>
